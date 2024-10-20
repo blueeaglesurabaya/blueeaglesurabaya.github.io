@@ -1,0 +1,49 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 20 Oct 2024 13:01:34 at https://safetyshoescheetah.blogspot.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://safetyshoescheetah.blogspot.com/ -O1 "C:\My Web Sites\blogspot" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:02:16	Error: 	"Not Found" (404) at link https://www.zonasafety.com/images/cheetah_logo.jpg (from https://safetyshoescheetah.blogspot.com/search/label/)
+13:02:16	Error: 	"Not Found" (404) at link https://www.zonasafety.com/images/CHEETAHLOGO.jpg (from https://safetyshoescheetah.blogspot.com/search/label/)
+13:02:41	Error: 	"Not Found" (404) at link www.zonasafety.com/images/3002 HS.jpg (from https://safetyshoescheetah.blogspot.com/2012/01/cheetah-5101-ha-comfy-series.html)
+13:02:41	Error: 	"Not Found" (404) at link www.zonasafety.com/images/3288 CS.jpg (from https://safetyshoescheetah.blogspot.com/2012/01/cheetah-3288-c-polyurethane.html)
+13:02:52	Error: 	"Not Found" (404) at link https://www.zonasafety.com/images/3001 HS.jpg (from https://safetyshoescheetah.blogspot.com/search?updated-max=2012-01-20T02:01:00-08:00&max-results=20&start=8&by-date=false)
+13:03:23	Error: 	"Not Found" (404) at link www.zonasafety.com/images/3112 CS.jpg (from https://safetyshoescheetah.blogspot.com/2012/01/cheetah-3112-c-polyurethane.html)
+13:03:26	Error: 	"Not Found" (404) at link www.zonasafety.com/images/3112 HS.jpg (from https://safetyshoescheetah.blogspot.com/2012/01/cheetah-3112-h-polyurethane.html)
+13:03:26	Error: 	"Not Found" (404) at link www.zonasafety.com/images/3111 HS.jpg (from https://safetyshoescheetah.blogspot.com/2012/01/cheetah-3111-h-polyurethane.html)
+13:03:26	Error: 	"Not Found" (404) at link www.zonasafety.com/images/3110 HS.jpg (from https://safetyshoescheetah.blogspot.com/2012/01/cheetah-3110-h-polyurethane.html)
+13:03:26	Error: 	"Not Found" (404) at link www.zonasafety.com/images/3106 HS.jpg (from https://safetyshoescheetah.blogspot.com/2012/01/cheetah-3106-h-polyurethane.html)
+13:03:26	Error: 	"Not Found" (404) at link www.zonasafety.com/images/3013 HS.jpg (from https://safetyshoescheetah.blogspot.com/2012/01/cheetah-3013-h-polyurethane.html)
+13:03:26	Error: 	"Not Found" (404) at link www.zonasafety.com/images/3012 HS.jpg (from https://safetyshoescheetah.blogspot.com/2012/01/cheetah-3012-h-polyurethane.html)
+13:03:26	Error: 	"Not Found" (404) at link www.zonasafety.com/images/2183 HS.jpg (from https://safetyshoescheetah.blogspot.com/2012/01/cheetah-2291-h-nitrile.html)
+13:03:26	Error: 	"Not Found" (404) at link www.zonasafety.com/images/2288 CS.jpg (from https://safetyshoescheetah.blogspot.com/2012/01/cheetah-2288-c-nitrile.html)
+13:03:26	Error: 	"Not Found" (404) at link www.zonasafety.com/images/3288 HS.jpg (from https://safetyshoescheetah.blogspot.com/2012/01/cheetah-2288-h-nitrile.html)
+13:03:26	Error: 	"Not Found" (404) at link www.zonasafety.com/images/2286 HS.jpg (from https://safetyshoescheetah.blogspot.com/2012/01/cheetah-2286-h-nitrile.html)
+13:03:26	Error: 	"Not Found" (404) at link www.zonasafety.com/images/2180 Hs.jpg (from https://safetyshoescheetah.blogspot.com/2012/01/cheetah-2180-h-nitrile.html)
+13:03:26	Error: 	"Not Found" (404) at link www.zonasafety.com/images/2101 H combos.jpg (from https://safetyshoescheetah.blogspot.com/2012/01/cheetah-2101-h-nitrile.html)
+13:03:26	Error: 	"Not Found" (404) at link www.zonasafety.com/images/2001 HX.jpg (from https://safetyshoescheetah.blogspot.com/2012/01/cheetah-2001-h-nitrile.html)
+13:03:34	Error: 	"Not Found" (404) at link https://safetyshoescheetah.blogspot.com/logox.ico (from https://safetyshoescheetah.blogspot.com/search?updated-max=2012-01-20T01:03:00-08:00&max-results=20&start=28&by-date=false)
+13:03:34	Error: 	"Not Found" (404) at link https://safetyshoescheetah.blogspot.com/cheetah.css (from https://safetyshoescheetah.blogspot.com/search?updated-max=2012-01-20T01:03:00-08:00&max-results=20&start=28&by-date=false)
+13:03:34	Error: 	"Not Found" (404) at link https://safetyshoescheetah.blogspot.com/js/script.js.js (from https://safetyshoescheetah.blogspot.com/search?updated-max=2012-01-20T01:03:00-08:00&max-results=20&start=28&by-date=false)
+13:03:34	Error: 	"Not Found" (404) at link https://safetyshoescheetah.blogspot.com/css/calendar-blue.css (from https://safetyshoescheetah.blogspot.com/search?updated-max=2012-01-20T01:03:00-08:00&max-results=20&start=28&by-date=false)
+13:03:34	Error: 	"Not Found" (404) at link https://safetyshoescheetah.blogspot.com/js/calendar.js (from https://safetyshoescheetah.blogspot.com/search?updated-max=2012-01-20T01:03:00-08:00&max-results=20&start=28&by-date=false)
+13:03:34	Error: 	"Not Found" (404) at link https://safetyshoescheetah.blogspot.com/js/lang/calendar-en.js (from https://safetyshoescheetah.blogspot.com/search?updated-max=2012-01-20T01:03:00-08:00&max-results=20&start=28&by-date=false)
+13:03:34	Error: 	"Not Found" (404) at link https://safetyshoescheetah.blogspot.com/js/calendar-setup.js (from https://safetyshoescheetah.blogspot.com/search?updated-max=2012-01-20T01:03:00-08:00&max-results=20&start=28&by-date=false)
+13:03:34	Error: 	"Not Found" (404) at link https://safetyshoescheetah.blogspot.com/AC_RunActiveContent.js (from https://safetyshoescheetah.blogspot.com/search?updated-max=2012-01-20T01:03:00-08:00&max-results=20&start=28&by-date=false)
+13:03:34	Error: 	"Not Found" (404) at link https://safetyshoescheetah.blogspot.com/default.css (from https://safetyshoescheetah.blogspot.com/search?updated-max=2012-01-20T01:03:00-08:00&max-results=20&start=28&by-date=false)
+13:03:37	Error: 	"Forbidden" (403) at link www.cheetahsafety.com/images/logo.gif (from https://safetyshoescheetah.blogspot.com/2011/11/cheetah-safety-shoes-surabaya-indonesia.html)
+13:03:37	Error: 	"Not Found" (404) at link https://safetyshoescheetah.blogspot.com/2011/11/logox.ico (from https://safetyshoescheetah.blogspot.com/2011/11/cheetah-safety-shoes-surabaya-indonesia.html)
+13:03:37	Error: 	"Not Found" (404) at link https://safetyshoescheetah.blogspot.com/2011/11/cheetah.css (from https://safetyshoescheetah.blogspot.com/2011/11/cheetah-safety-shoes-surabaya-indonesia.html)
+13:03:37	Error: 	"Not Found" (404) at link https://safetyshoescheetah.blogspot.com/2011/11/js/script.js.js (from https://safetyshoescheetah.blogspot.com/2011/11/cheetah-safety-shoes-surabaya-indonesia.html)
+13:03:37	Error: 	"Not Found" (404) at link https://safetyshoescheetah.blogspot.com/2011/11/css/calendar-blue.css (from https://safetyshoescheetah.blogspot.com/2011/11/cheetah-safety-shoes-surabaya-indonesia.html)
+13:03:37	Error: 	"Not Found" (404) at link https://safetyshoescheetah.blogspot.com/2011/11/js/calendar.js (from https://safetyshoescheetah.blogspot.com/2011/11/cheetah-safety-shoes-surabaya-indonesia.html)
+13:03:37	Error: 	"Not Found" (404) at link https://safetyshoescheetah.blogspot.com/2011/11/js/lang/calendar-en.js (from https://safetyshoescheetah.blogspot.com/2011/11/cheetah-safety-shoes-surabaya-indonesia.html)
+13:03:37	Error: 	"Not Found" (404) at link https://safetyshoescheetah.blogspot.com/2011/11/js/calendar-setup.js (from https://safetyshoescheetah.blogspot.com/2011/11/cheetah-safety-shoes-surabaya-indonesia.html)
+13:03:37	Error: 	"Not Found" (404) at link https://safetyshoescheetah.blogspot.com/2011/11/AC_RunActiveContent.js (from https://safetyshoescheetah.blogspot.com/2011/11/cheetah-safety-shoes-surabaya-indonesia.html)
+13:03:37	Error: 	"Not Found" (404) at link https://safetyshoescheetah.blogspot.com/2011/11/default.css (from https://safetyshoescheetah.blogspot.com/2011/11/cheetah-safety-shoes-surabaya-indonesia.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 minutes 1 seconds : 411 links scanned, 372 files written (39498325 bytes overall) [11713096 bytes received at 38913 bytes/sec], 40679721 bytes transferred using HTTP compression in 351 files, ratio 26%, 1.0 requests per connection
+(38 errors, 0 warnings, 0 messages)
